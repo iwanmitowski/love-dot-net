@@ -110,7 +110,7 @@ function App() {
                   }
                 />
                 <Route
-                  path="/verify"
+                  path="/love-dot-net/verify"
                   element={
                     <NoAuthGuard>
                       <Verify />
