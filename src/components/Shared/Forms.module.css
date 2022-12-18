@@ -1,0 +1,8 @@
+.form-wrapper {
+    min-height: 80vh;
+}
+
+.input-fields-length {
+    min-width:378px;
+    max-width:378px;
+}
